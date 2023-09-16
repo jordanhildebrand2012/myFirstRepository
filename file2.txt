@@ -1,2 +1,3 @@
 This is file2.txt
 Content added from local repository
+New content added from GItHub repo.
